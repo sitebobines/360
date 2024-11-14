@@ -11,7 +11,7 @@ PanoramaStudioViewerParams = {
     },
 "include": [
         {
-            "src": "New Panorama3_controls.js"
+            "src": "NewPanorama3_controls.js"
         }
     ],
 "node": {
