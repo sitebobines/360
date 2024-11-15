@@ -55,7 +55,7 @@ PanoramaStudioViewerParams = {
 	            "textbox": {
 	                "align": "top",
 	                "style": "color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; text-align:center; display: inline;",
-	                "text": "BEAU GOSSE\n"
+	                "text": "BEAU GOSSE )) \n"
 	            },
 	            "unit": "deg"
 	        },
