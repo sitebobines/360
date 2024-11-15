@@ -62,8 +62,8 @@ PanoramaStudioViewerParams = {
                 "caption": "-"
             },
             {
-                "onclick": function(){ window.open('http://www.tshsoft.com','_blank'); },
-                "oninit": function(){  this.caption = this.viewer.tr('About PanoramaStudio...'); }
+                "onclick": function(){ window.open('https://lesbobinesdupaysage.wixstudio.io/my-site/','_blank'); },
+                "oninit": function(){  this.caption = this.viewer.tr('revenir a laccueil...'); }
             }
         ],
         "onshow": function(){ var view1 = this.getItem('normalView'); if (view1){ view1.visible = (this.viewer.webglAvailable && this.viewer.fullEquirectangular()) ? true : false; } var view2 = this.getItem('littlePlanetView'); if (view2){ view2.visible = (this.viewer.webglAvailable && this.viewer.fullEquirectangular())?true:false; }  this.update(); },
