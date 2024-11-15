@@ -88,7 +88,7 @@ PanoramaStudioViewerParams = {
     },
 "translate": {
         "de": {
-            "About PanoramaStudio...": "&Uuml;ber PanoramaStudio...",
+            "revenir a laccueil...": "revenir...",
             "Fullscreen": "Vollbild",
             "LittlePlanet View": "LittlePlanet-Ansicht",
             "Normal View": "Normale Ansicht"
