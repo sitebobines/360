@@ -22,7 +22,7 @@ PanoramaStudioViewerParams = {
 	        "returnToLevel": true,
 	        "status": "off",
 	        "tilt": 0,
-	        "zoom": 1
+	        "zoom": 3
 	    },
 	"camera": {
 	        "maxpan": 44.06250000000006,
