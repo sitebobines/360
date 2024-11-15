@@ -63,7 +63,7 @@ PanoramaStudioViewerParams = {
 	            "bitmap": "autresgaronnes.gif",
 	            "bitmaptype": "embedded",
 	            "embeddedwidth": 4.406250065658247,
-	            "href": "https://www.lesbobinesdupaysage.com/autresgaronnes",
+	            "href": "https://lesbobinesdupaysage.wixstudio.io/my-site/projects/autres-garonnes",
 	            "opacity": "0.50;1.00",
 	            "position": "33.8577,-6.3665",
 	            "rotate": 0,
